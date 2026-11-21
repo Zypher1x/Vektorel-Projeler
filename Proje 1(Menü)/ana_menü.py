@@ -21,11 +21,11 @@ elif seçim == '3':
     print('Hesaplamalar Menüsü Açılıyor...')
     import hesaplamalar
 
-elif seçim == '5':
+elif seçim == '4':
     print('Sosyal Medya Menüsü Açılıyor...')
     import sosyal_medya
 
-elif seçim == '6':
+elif seçim == '5':
     print('Çıkış Yapılıyor...')
 
 else:
